@@ -61,7 +61,7 @@ body,
 }
 
 form {
-  margin-top: 60px;
+  margin-top: 30px;
   display: flex;
   flex-direction: column;
 
@@ -71,16 +71,6 @@ form {
     text-align: left;
     text-decoration: underline;
     margin-bottom: 16px;
-  }
-
-  label {
-    display: flex;
-    justify-content: space-between;
-    padding: 4px 36px 4px 40px;
-  }
-
-  input {
-    width: 100px;
   }
 }
 
